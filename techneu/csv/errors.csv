@@ -1,0 +1,5 @@
+﻿url,type,status,message
+https://techneu.ru/evakuator-mo/kochenyagino,request_error,,Maximum number of redirects exceeded
+https://techneu.ru/evakuator-mo/sergievo-posadskyi-raion/kamenki,request_error,,Request failed with status code 404
+https://techneu.ru/evakuator-mozhajskij-okrug/elnik,request_error,,Request failed with status code 404
+https://techneu.ru/evakuator-mozhajskij-okrug/tverdiki,request_error,,Request failed with status code 404

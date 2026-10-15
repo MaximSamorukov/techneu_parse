@@ -1,0 +1,13 @@
+﻿metric,value
+sitemap_url,https://techneu.ru/sitemap.xml
+base_domain,techneu.ru
+generated_at,2026-10-15T19:51:48.955Z
+duration_sec,228.1
+total_pages,7066
+errors,4
+total_links,2000068
+total_internal,1918014
+total_external,82054
+total_invalid,0
+internal_ratio,95.90%
+external_ratio,4.10%
